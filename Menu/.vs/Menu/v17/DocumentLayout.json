@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|h:\\food menu, text editor\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|solutionrelative:data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|h:\\food menu, text editor\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|h:\\food menu, text editor\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|h:\\food menu, text editor\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C6B5ED-2CAB-4BC1-99F2-A414F6225BE1}|Menu.csproj|solutionrelative:models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Data\\MenuContext.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Data\\MenuContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:46:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishIngredient.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Menu\\Models\\DishIngredient.cs",
+              "RelativeDocumentMoniker": "Models\\DishIngredient.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Menu\\Models\\DishIngredient.cs",
+              "RelativeToolTip": "Models\\DishIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:38:00.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Menu\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Menu\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:35:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Menu\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AgIAAAMAAADAMzMzMzMLwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:30:09.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
