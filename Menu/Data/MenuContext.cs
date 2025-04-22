@@ -18,8 +18,8 @@ namespace Menu.Data
             modelBuilder.Entity<DishIngredient>().HasOne(i => i.Ingredient).WithMany(di => di.DishIngredients).HasForeignKey(i => i.IngredientId);
 
             modelBuilder.Entity<Dish>().HasData(
-                new Dish { Id = 1, Name = "Margeritta", Price = 7.50, ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-GQ2TMDlb3dz_N_WOMWeOBHwz5YOMBElZA&s" },
-                new Dish { Id = 2, Name = "ghg", Price = 9, ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-GQ2TMDlb3dz_N_WOMWeOBHwz5YOMBElZA&s" }
+                new Dish { Id = 1, Name = "Margeritta", Price = 7.50, ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIN56Csw8LEnEIiuKKmELfFi11Hmt8sC1uQ&s" },
+                new Dish { Id = 2, Name = "Peporoni", Price = 9, ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnyqX7qXtkCEI-UEE5TddvD7FDRkqt0ZV0w&s" }
                 );
             modelBuilder.Entity<Ingredient>().HasData(
                 new Ingredient { Id = 1, Name = "Tomato Sauce" },
