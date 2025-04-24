@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Sockets;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
@@ -25,8 +26,11 @@ namespace TextEditor.Controllers
         // GET: Docs
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Docs.Include(d => d.User);
-            return View(await applicationDbContext.ToListAsync());
+            var applicationDbContext = from c in _context.Docs
+                                       select c;
+            applicationDbContext = applicationDbContext.Where(a => a.UserId == User.FindFirstValue(ClaimTypes.NameIdentifier));
+
+            return View(await applicationDbContext.Include(d => d.User).ToListAsync());
         }
 
         
