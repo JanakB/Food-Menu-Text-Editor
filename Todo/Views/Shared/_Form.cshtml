@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+ 
+@model Todo
+
+<form asp-action="Insert" id="form-action" method="post" role="form">
+    <div asp-validation-summary="All"></div>
+          <label asp-for="Name"></label>
+          <input asp-for="Id" type="hidden" />
+          <input asp-for="Name" />
+          <span asp-validation-for="Name"></span>
+          <input type="submit" id="form-button" value="Add Todo" /> 
+</form>
