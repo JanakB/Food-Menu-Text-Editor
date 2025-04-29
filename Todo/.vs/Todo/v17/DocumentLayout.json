@@ -47,8 +47,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAgAAAAgNjMzMzMrwBIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:53:34.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T07:53:34.698Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Models\\Todo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T07:50:32.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T07:50:32.576Z"
             }
           ]
         }
