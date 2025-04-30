@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\migrations\\20250430062633_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:migrations\\20250430062633_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +40,53 @@
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:18:48.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T06:06:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:14:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250430062633_init.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Migrations\\20250430062633_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430062633_init.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Migrations\\20250430062633_init.cs",
+              "RelativeToolTip": "Migrations\\20250430062633_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:26:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Users.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:13:22.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T07:13:22.24Z"
             }
           ]
         }

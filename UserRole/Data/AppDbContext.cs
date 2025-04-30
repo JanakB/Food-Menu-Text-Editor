@@ -9,8 +9,8 @@ namespace UserRole.Data
         {
         }
 
-        protected AppDbContext()
-        {
-        }
+        //protected AppDbContext()
+        //{
+        //}
     }
 }
