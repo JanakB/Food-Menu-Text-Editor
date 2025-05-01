@@ -30,30 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T06:14:58.033Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "Data\\AppDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:18:48.284Z",
               "EditorCaption": ""
@@ -64,11 +51,24 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-30T06:06:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:14:58.033Z",
               "EditorCaption": ""
             },
             {
