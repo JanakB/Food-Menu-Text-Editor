@@ -3,6 +3,7 @@ H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap-grid
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\jquery-validation\LICENSE.md
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+H:\Food Menu, Text Editor\UserRole\wwwroot\css\account.css
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
@@ -60,6 +61,7 @@ H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 H:\Food Menu, Text Editor\UserRole\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\css\account.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\Reebok.jfif
