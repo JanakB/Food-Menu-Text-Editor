@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L00YVAuRHkbUs/CNQEOk6phmfz1+NFqWMf9QNyID/gE=",
+  "Hash": "TJ8BCe7kBNWpe8bW+dF81GMrtGQF7Vfcx9HQXBlpyk8=",
   "Source": "UserRole",
   "BasePath": "_content/UserRole",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "H:\\Food Menu, Text Editor\\UserRole\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-3r8b2a0bt1.gz",
+      "Identity": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-0za510kj2r.gz",
       "SourceId": "UserRole",
       "SourceType": "Discovered",
       "ContentRoot": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/UserRole",
-      "RelativePath": "css/account#[.{fingerprint=3r8b2a0bt1}]?.css.gz",
+      "RelativePath": "css/account#[.{fingerprint=0za510kj2r}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "H:\\Food Menu, Text Editor\\UserRole\\wwwroot\\css\\account.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7t0uxwsjr0",
-      "Integrity": "Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=",
+      "Fingerprint": "mz8ikdw5z9",
+      "Integrity": "/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "H:\\Food Menu, Text Editor\\UserRole\\wwwroot\\css\\account.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3r8b2a0bt1",
-      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "Fingerprint": "0za510kj2r",
+      "Integrity": "zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\account.css"
@@ -2791,13 +2791,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/account.3r8b2a0bt1.css",
-      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-3r8b2a0bt1.gz",
+      "Route": "css/account.0za510kj2r.css",
+      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-0za510kj2r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.041666666667"
+          "Quality": "0.003508771930"
         }
       ],
       "ResponseHeaders": [
@@ -2807,15 +2807,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "284"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2835,13 +2835,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "W/\"zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "0za510kj2r"
         },
         {
           "Name": "label",
@@ -2849,12 +2849,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38="
         }
       ]
     },
     {
-      "Route": "css/account.3r8b2a0bt1.css",
+      "Route": "css/account.0za510kj2r.css",
       "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\wwwroot\\css\\account.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2864,7 +2864,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "484"
         },
         {
           "Name": "Content-Type",
@@ -2872,11 +2872,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2886,7 +2886,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "0za510kj2r"
         },
         {
           "Name": "label",
@@ -2894,13 +2894,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38="
         }
       ]
     },
     {
-      "Route": "css/account.3r8b2a0bt1.css.gz",
-      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-3r8b2a0bt1.gz",
+      "Route": "css/account.0za510kj2r.css.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-0za510kj2r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +2909,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "284"
         },
         {
           "Name": "Content-Type",
@@ -2917,11 +2917,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2939,7 +2939,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "0za510kj2r"
         },
         {
           "Name": "label",
@@ -2947,18 +2947,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo="
+          "Value": "sha256-/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM="
         }
       ]
     },
     {
       "Route": "css/account.css",
-      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-3r8b2a0bt1.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-0za510kj2r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.041666666667"
+          "Quality": "0.003508771930"
         }
       ],
       "ResponseHeaders": [
@@ -2968,15 +2968,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "284"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2996,13 +2996,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "W/\"zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38="
         }
       ]
     },
@@ -3017,7 +3017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "484"
         },
         {
           "Name": "Content-Type",
@@ -3025,11 +3025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3039,13 +3039,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-zGdn+JL4SQBI3VsrbLuKJxR9dmPAe91YfZaZhq9By38="
         }
       ]
     },
     {
       "Route": "css/account.css.gz",
-      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-3r8b2a0bt1.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\UserRole\\obj\\Debug\\net9.0\\compressed\\4sf1pqvz33-0za510kj2r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3054,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23"
+          "Value": "284"
         },
         {
           "Name": "Content-Type",
@@ -3062,11 +3062,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=\""
+          "Value": "\"/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 10:50:21 GMT"
+          "Value": "Sun, 04 May 2025 07:44:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3084,7 +3084,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo="
+          "Value": "sha256-/tn35YYRh7DEhN4EldqI+4HKx8QZ47Q0N30UtDF+gPM="
         }
       ]
     },
