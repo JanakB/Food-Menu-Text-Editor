@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NshWlLXWM+rfBVfkietOnDuVGzF/1bs3LiSQ0GtBHVg=",
+  "Hash": "sq9mPHaea7JMLmyqJJGyTbvnPRCDm64tXMDiFZ9eDFU=",
   "Source": "JokesWebApp",
   "BasePath": "_content/JokesWebApp",
   "Mode": "Default",
@@ -2789,12 +2789,12 @@
       "OriginalItemSpec": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-b9sayid5wm.gz",
+      "Identity": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-w65tsr3bp7.gz",
       "SourceId": "JokesWebApp",
       "SourceType": "Discovered",
       "ContentRoot": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/JokesWebApp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=w65tsr3bp7}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2803,8 +2803,8 @@
       "RelatedAsset": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "gm2bbwgx7b",
+      "Integrity": "+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css"
@@ -4042,8 +4042,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "w65tsr3bp7",
+      "Integrity": "iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -5353,167 +5353,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.3\\staticwebassets\\css\\site.css",
       "Selectors": [],
@@ -5552,12 +5391,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-b9sayid5wm.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-w65tsr3bp7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002985074627"
         }
       ],
       "ResponseHeaders": [
@@ -5567,15 +5406,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "334"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5595,13 +5434,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk="
         }
       ]
     },
@@ -5616,7 +5455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "694"
         },
         {
           "Name": "Content-Type",
@@ -5624,11 +5463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5638,13 +5477,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-b9sayid5wm.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-w65tsr3bp7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5653,7 +5492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "334"
         },
         {
           "Name": "Content-Type",
@@ -5661,11 +5500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:45:50 GMT"
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5683,7 +5522,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.w65tsr3bp7.css",
+      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-w65tsr3bp7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002985074627"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w65tsr3bp7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.w65tsr3bp7.css",
+      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w65tsr3bp7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJcwHyLSPTcyXoEeqoekO+k4J7v4ER9uxLu5Hf9XXxk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.w65tsr3bp7.css.gz",
+      "AssetFile": "H:\\Food Menu, Text Editor\\JokesWebApp\\obj\\Debug\\net9.0\\compressed\\lustluoyhu-w65tsr3bp7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w65tsr3bp7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HIfDFvlfLjjtMgQX8sA5HtPleDXihNMMGcs7wnLlg0="
         }
       ]
     },

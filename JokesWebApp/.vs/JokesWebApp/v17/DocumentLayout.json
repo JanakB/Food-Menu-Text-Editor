@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\JokesWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAADAMzMzMzMrwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:24:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAANTMzMzMbwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:10:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AgIAABEAAABAAAAAAIA9wJ0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:37:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ShowSearchForm.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
@@ -42,25 +89,11 @@
               "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T05:40:54.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T05:40:54.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JokesController.cs",
-              "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
-              "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
-              "RelativeToolTip": "Controllers\\JokesController.cs",
-              "ViewState": "AgIAADEAAADAmZmZmZkrwDwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:37:54.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T05:19:03.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T05:19:03.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20250508094715_InitialSetup.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Data\\Migrations\\20250508094715_InitialSetup.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250508094715_InitialSetup.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250508094715_InitialSetup.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:47:16.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T09:47:16.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Joke.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Models\\Joke.cs",
               "RelativeDocumentMoniker": "Models\\Joke.cs",
