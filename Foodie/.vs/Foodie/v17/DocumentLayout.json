@@ -3,39 +3,55 @@
   "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\Foodie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -46,11 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.aspx.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Category.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Category.aspx.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Category.aspx.cs",
+              "RelativeToolTip": "Admin\\Category.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAYmZmZmYWwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:57:15.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Category.aspx",
+              "RelativeDocumentMoniker": "Admin\\Category.aspx",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Category.aspx",
+              "RelativeToolTip": "Admin\\Category.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T06:56:03.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Foodie\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AgIAAA8AAABgAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:08:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "H:\\Food Menu, Text Editor\\Foodie\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T10:12:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dashboard.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Dashboard.aspx",
               "RelativeDocumentMoniker": "Admin\\Dashboard.aspx",
@@ -63,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Admin.Master",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Admin.Master",
               "RelativeDocumentMoniker": "Admin\\Admin.Master",
@@ -76,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Contact.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\Contact.aspx",
               "RelativeDocumentMoniker": "User\\Contact.aspx",
@@ -89,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "User.Master.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\User.Master.cs",
               "RelativeDocumentMoniker": "User\\User.Master.cs",
@@ -97,12 +165,11 @@
               "RelativeToolTip": "User\\User.Master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:07:38.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:07:38.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.Master",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\User.Master",
               "RelativeDocumentMoniker": "User\\User.Master",
@@ -115,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "About.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\About.aspx",
               "RelativeDocumentMoniker": "User\\About.aspx",
@@ -128,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "SliderUserControl.ascx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\SliderUserControl.ascx",
               "RelativeDocumentMoniker": "User\\SliderUserControl.ascx",
@@ -141,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Menu.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\Menu.aspx",
               "RelativeDocumentMoniker": "User\\Menu.aspx",
@@ -154,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Default.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\User\\Default.aspx",
               "RelativeDocumentMoniker": "User\\Default.aspx",

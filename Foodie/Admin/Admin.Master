@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>GURU Able - Free Lite Admin Template </title>
+    <title>Foodie -Admin </title>
     <!-- HTML5 Shim and Respond.js IE9 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -224,36 +224,34 @@
                         <div class="pcoded-content">
 
                             <!-- Danger-color Breadcrumb card start -->
-                                        <div class="card borderless-card">
-                                            <div class="card-block danger-breadcrumb">
-                                                
-                                                <div class="page-header-breadcrumb">
-                                                    <ul class="breadcrumb-title">
-                                                        <li class="breadcrumb-item">
-                                                            <a href="#!">
-                                                                <i class="icofont icofont-home"></i>
-                                                            </a>
-                                                        </li>
-                                                        <li class="breadcrumb-item"><a href="#!">Breadcrumb</a>
-                                                        </li>
-                                                        <li class="breadcrumb-item"><a href="#!">Caption Breadcrumb</a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Danger-color Breadcrumb card end -->
-                          
-                            <asp:ContentPlaceHolder ID="contentplaceholder1" runat="server">
+                            <div class="card borderless-card">
+                                <div class="card-block danger-breadcrumb">
 
+                                    <div class="page-header-breadcrumb">
+                                        <ul class="breadcrumb-title">
+                                            <li class="breadcrumb-item">
+                                                <a href="#!">
+                                                    <i class="icofont icofont-home"></i>
+                                                </a>
+                                            </li>
+                                            <li class="breadcrumb-item"><a href="#!">Breadcrumb</a>
+                                            </li>
+                                            <li class="breadcrumb-item"><a href="#!">Caption Breadcrumb</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Danger-color Breadcrumb card end -->
+                            <asp:ContentPlaceHolder ID="contentplaceholder1" runat="server">
                             </asp:ContentPlaceHolder>
                         </div>
                     </div>
                 </div>
 
                 <asp:ContentPlaceHolder ID="contentplaceholder2" runat="server">
-</asp:ContentPlaceHolder>
-                        
+                </asp:ContentPlaceHolder>
+
             </div>
         </div>
 
