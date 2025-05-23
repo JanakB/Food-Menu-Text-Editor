@@ -18,9 +18,13 @@ namespace Foodie.Admin
         SqlDataAdapter sda;
         DataTable dt;
 
-	}
-	
-	public partial class Category : System.Web.UI.Page
+        protected void btnAddOrUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+
+    public partial class Category : System.Web.UI.Page
 	{
 		protected void Page_Load(object sender, EventArgs e)
 		{
@@ -68,7 +72,7 @@ namespace Foodie.Admin
                     lblMsg.Visible = true;
                     lblMsg.Text = "Category " + actionName + " successfully!";
                     lblMsg.CssClass = "alert alert-success";
-                    getCategories();
+                    //getCategories();
                     clear();
                 }
                 catch (Exception ex)
@@ -84,6 +88,14 @@ namespace Foodie.Admin
             }
 
 
+        }
+
+        private void clear()
+        {
+            txtName.Text = string.Empty;
+            cbIsActive.Enabled = false;
+            hdnId.Value = "0";
+            btnAddOrUpdate.Text = "Add";
         }
     }
 }

@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|h:\\food menu, text editor\\foodie\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|solutionrelative:admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDE833B3-DCB0-4622-B01C-C41782626A18}|Foodie.csproj|H:\\Food Menu, Text Editor\\Foodie\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "Admin\\Category.aspx.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Category.aspx.cs",
               "RelativeToolTip": "Admin\\Category.aspx.cs",
-              "ViewState": "AgIAAC8AAAAAYWZmZmYWwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAACQy8zMzMwmwCIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:57:15.2Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Connection.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Connection.cs",
               "RelativeDocumentMoniker": "Connection.cs",
@@ -100,12 +100,11 @@
               "RelativeToolTip": "Connection.cs",
               "ViewState": "AgIAAA8AAABgAAAAAAAiwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:08:11.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T10:08:11.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -118,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dashboard.aspx",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Dashboard.aspx",
               "RelativeDocumentMoniker": "Admin\\Dashboard.aspx",
@@ -126,12 +125,11 @@
               "RelativeToolTip": "Admin\\Dashboard.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-20T08:08:46.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T08:08:46.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Admin.Master",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\Foodie\\Admin\\Admin.Master",
               "RelativeDocumentMoniker": "Admin\\Admin.Master",
@@ -152,8 +150,7 @@
               "RelativeToolTip": "User\\Contact.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-20T07:44:02.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:44:02.232Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "User\\User.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-19T08:15:00.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T08:15:00.867Z"
             },
             {
               "$type": "Document",
@@ -190,8 +186,7 @@
               "RelativeToolTip": "User\\About.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-20T07:38:32.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:38:32.199Z"
             },
             {
               "$type": "Document",
@@ -203,8 +198,7 @@
               "RelativeToolTip": "User\\SliderUserControl.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-20T06:59:35.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:59:35.012Z"
             },
             {
               "$type": "Document",
@@ -216,8 +210,7 @@
               "RelativeToolTip": "User\\Menu.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-20T06:34:32.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:34:32.049Z"
             },
             {
               "$type": "Document",
@@ -229,8 +222,7 @@
               "RelativeToolTip": "User\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-19T09:54:41.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:54:41.949Z"
             }
           ]
         }
