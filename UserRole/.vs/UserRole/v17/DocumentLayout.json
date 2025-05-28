@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\UserRole\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\migrations\\20250430062633_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:migrations\\20250430062633_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|h:\\food menu, text editor\\userrole\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66A2A0-3029-49C1-A9CF-3AD043591567}|UserRole.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,11 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -114,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB0AAACAaWZmZmYkwDAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-30T10:39:55.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "User.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Home\\User.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\User.cshtml",
@@ -135,11 +135,12 @@
               "RelativeToolTip": "Views\\Home\\User.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T07:01:34.273Z"
+              "WhenOpened": "2025-05-05T07:01:34.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Home\\Admin.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Admin.cshtml",
@@ -147,35 +148,38 @@
               "RelativeToolTip": "Views\\Home\\Admin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T06:58:21.242Z"
+              "WhenOpened": "2025-05-05T06:58:21.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "_AccountLayout.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
               "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAACAMzMzMzMrwAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T10:44:46.047Z"
+              "WhenOpened": "2025-04-30T10:44:46.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\UserRole\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAJ0AAAAAMTMzMzMbwKwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAhczMzMwEwKwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T10:42:03.491Z"
+              "WhenOpened": "2025-04-30T10:42:03.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SeedService.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Services\\SeedService.cs",
               "RelativeDocumentMoniker": "Services\\SeedService.cs",
@@ -187,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
@@ -195,11 +199,12 @@
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T10:27:02.493Z"
+              "WhenOpened": "2025-04-30T10:27:02.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ChangePassword.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Account\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
@@ -211,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -223,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -235,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "account.css",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\wwwroot\\css\\account.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
@@ -247,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "VerifyEmail.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Views\\Account\\VerifyEmail.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
@@ -259,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ChangePasswordViewModel.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\ViewModels\\ChangePasswordViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
@@ -271,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "VerifyEmailViewModel.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\ViewModels\\VerifyEmailViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\VerifyEmailViewModel.cs",
@@ -283,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
@@ -295,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -307,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
@@ -319,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -331,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -343,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250430062633_init.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Migrations\\20250430062633_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250430062633_init.cs",
@@ -355,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
               "Title": "Users.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\UserRole\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -363,7 +368,8 @@
               "RelativeToolTip": "Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:13:22.24Z"
+              "WhenOpened": "2025-04-29T07:13:22.24Z",
+              "EditorCaption": ""
             }
           ]
         }

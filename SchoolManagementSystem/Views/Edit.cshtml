@@ -1,0 +1,61 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Classroom</label>
+        <select id="ClassroomId" name="ClassroomId" class="form-control">
+            <option value="">-- Select Classroom --</option>
+            @foreach (var cls in (SelectList)ViewBag.Classrooms)
+            {
+                <option value="@cls.Value" selected="@(cls.Value == Model.ClassroomId.ToString() ? "selected" : null)">
+                    @cls.Text
+                </option>
+                
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Section</label>
+        <select id="SectionId" name="SectionId" class="form-control">
+            @foreach (var sec in (SelectList)ViewBag.Sections)
+           {
+                <option value="@sec.Value" selected="@(sec.Value == Model.SectionId.ToString() ? "selected" : null)">
+                    @sec.Text
+                </option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        $("#ClassroomId").change(function () {
+            var classroomId = $(this).val();
+            $("#SectionId").empty();
+            $.getJSON('/Student/GetSectionsByClassroom', { classroomId: classroomId }, function (data) {
+                $("#SectionId").append('<option value="">-- Select Section --</option>');
+                $.each(data, function (i, section) {
+                    $("#SectionId").append('<option value="' + section.id + '">' + section.name + '</option>');
+                });
+            });
+        });
+    </script>
+}

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\JokesWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69BD97E8-EB73-4F84-9B7D-9867E85290F8}|JokesWebApp.csproj|h:\\food menu, text editor\\jokeswebapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,44 +38,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwAAADAMzMzMzMrwBkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-18T07:24:50.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
               "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
               "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAANTMzMzMbwBgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T07:10:55.176Z"
+              "WhenOpened": "2025-05-18T07:10:55.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "JokesController.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
               "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\JokesWebApp\\Controllers\\JokesController.cs",
               "RelativeToolTip": "Controllers\\JokesController.cs",
-              "ViewState": "AgIAABEAAABAAAAAAIA9wJ0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:37:54.422Z"
+              "WhenOpened": "2025-05-08T09:37:54.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -1,0 +1,51 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<h2>Create Student</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Classroom</label>
+        <select id="ClassroomId" name="ClassroomId" class="form-control">
+            <option value="">-- Select Classroom --</option>
+            @foreach (var cls in (SelectList)ViewBag.Classrooms)
+            {
+                <option value="@cls.Value">@cls.Text</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Section</label>
+        <select id="SectionId" name="SectionId" class="form-control">
+            <option value="">-- Select Section --</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        $("#ClassroomId").change(function () {
+            var classroomId = $(this).val();
+            $("#SectionId").empty();
+            $.getJSON('/Student/GetSectionsByClassroom', { classroomId: classroomId }, function (data) {
+                $("#SectionId").append('<option value="">-- Select Section --</option>');
+                $.each(data, function (i, section) {
+                    $("#SectionId").append('<option value="' + section.id + '">' + section.name + '</option>');
+                });
+            });
+        });
+    </script>
+}
