@@ -13,6 +13,9 @@ namespace SchoolManagementSystem.Data
         {
         }
 
+       
+
+
         public DbSet<Student> Students { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Classroom> Classrooms { get; set; }
@@ -37,6 +40,5 @@ namespace SchoolManagementSystem.Data
         }
 
     }
-}
 }
 

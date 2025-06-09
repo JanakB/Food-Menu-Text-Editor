@@ -2,32 +2,41 @@
 using Microsoft.EntityFrameworkCore;
 using SchoolManagementSystem.Data;
 using SchoolManagementSystem.Repositories;
-using Microsoft.Extensions.DependencyInjection;
-
+using SchoolManagementSystem.Services.Interfaces;
+using SchoolManagementSystem.Services.Interfaces.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// --------------------
+// Database Connection
+// --------------------
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// --------------------
+// Identity Setup
+// --------------------
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
+builder.Services.AddRazorPages(); // Needed for Identity UI (Login, Register)
+
+// --------------------
+// Dependency Injection
+// --------------------
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<IClassroomRepository, ClassroomRepository>();
+builder.Services.AddScoped<ISectionRepository, SectionRepository>();
 
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages(); // ✅ Add this if you’re using Identity UI
-
-builder.Services.AddScoped<IStudentRepository, StudentRepository>();
-
-
-
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// --------------------
+// Middleware
+// --------------------
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -42,23 +51,34 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
+// --------------------
+// Enable Areas (like /Admin/Student)
+// --------------------
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Student}/{action=Index}/{id?}");
+
+// --------------------
+// Fallback route (HomeController)
+// --------------------
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.MapRazorPages(); // ✅ This enables the Identity pages (Login, Register, etc.)
+// Enable Identity Razor Pages (Login, Register, etc.)
+app.MapRazorPages();
 
-
-
-
+// --------------------
+// Seed Roles + Admin
+// --------------------
 async Task SeedRolesAndAdminUserAsync(WebApplication app)
 {
     using var scope = app.Services.CreateScope();
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
     var userManager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
 
-    // Create roles
     string[] roles = { "Admin", "User" };
+
     foreach (var role in roles)
     {
         if (!await roleManager.RoleExistsAsync(role))
@@ -67,9 +87,8 @@ async Task SeedRolesAndAdminUserAsync(WebApplication app)
         }
     }
 
-    // Create an admin user
     string adminEmail = "admin@school.com";
-    string adminPassword = "Admin@123"; // You can change this
+    string adminPassword = "Admin@123";
 
     var adminUser = await userManager.FindByEmailAsync(adminEmail);
     if (adminUser == null)
@@ -83,25 +102,8 @@ async Task SeedRolesAndAdminUserAsync(WebApplication app)
     }
 }
 
-// Call the seeding method
+// 🔁 Call seeding after everything is set up
 await SeedRolesAndAdminUserAsync(app);
 
-//var app = builder.Build();
-
-// ROLE SEEDING
-using (var scope = app.Services.CreateScope())
-{
-    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
-    string[] roles = { "Admin", "User" };
-
-    foreach (var role in roles)
-    {
-        if (!await roleManager.RoleExistsAsync(role))
-        {
-            await roleManager.CreateAsync(new IdentityRole(role));
-        }
-    }
-}
-
-
+// ✅ Run the app
 app.Run();

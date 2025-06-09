@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-info">
+    Welcome, Admin! This is your dashboard.
+</div>
+
+<ul>
+    <li><a asp-area="Admin" asp-controller="Student" asp-action="Index">Manage Students</a></li>
+    <li><a asp-area="Admin" asp-controller="Classroom" asp-action="Index">Manage Classrooms</a></li>
+    <li><a asp-area="Admin" asp-controller="Section" asp-action="Index">Manage Sections</a></li>
+</ul>

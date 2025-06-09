@@ -1,0 +1,53 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClassroomId" class="control-label">Classroom</label>
+        <select asp-for="ClassroomId" class="form-control" asp-items="@(new SelectList(ViewBag.Classrooms, "Id", "Name"))" id="classroomDropdown"></select>
+        <span asp-validation-for="ClassroomId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SectionId" class="control-label">Section</label>
+        <select asp-for="SectionId" class="form-control" asp-items="@(new SelectList(ViewBag.Sections, "Id", "Name"))" id="sectionDropdown"></select>
+        <span asp-validation-for="SectionId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#classroomDropdown').change(function () {
+                var classroomId = $(this).val();
+                $('#sectionDropdown').empty();
+                if (classroomId) {
+                    $.get('/Admin/Student/GetSectionsByClassroom?id=' + classroomId, function (data) {
+                        $.each(data, function (i, section) {
+                            $('#sectionDropdown').append($('<option>', {
+                                value: section.id,
+                                text: section.name
+                            }));
+                        });
+                    });
+                }
+            });
+        });
+    </script>
+}

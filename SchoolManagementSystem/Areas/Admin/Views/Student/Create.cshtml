@@ -1,0 +1,54 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<h2>Create Student</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="FullName"></label>
+        <input asp-for="FullName" class="form-control" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClassroomId">Classroom</label>
+        <select asp-for="ClassroomId" class="form-control" asp-items="ViewBag.Classrooms" id="ClassroomId">
+            <option value="">-- Select Classroom --</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SectionId">Section</label>
+        <select asp-for="SectionId" class="form-control" asp-items="ViewBag.Sections" id="SectionId">
+            <option value="">-- Select Section --</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            $('#ClassroomId').change(function () {
+                var classroomId = $(this).val();
+                $('#SectionId').empty().append('<option>Loading...</option>');
+
+                $.get('/Admin/Student/GetSectionsByClassroom/' + classroomId, function (data) {
+                    $('#SectionId').empty().append('<option value="">-- Select Section --</option>');
+                    $.each(data, function (i, section) {
+                        $('#SectionId').append('<option value="' + section.id + '">' + section.name + '</option>');
+                    });
+                });
+            });
+        });
+    </script>
+}
