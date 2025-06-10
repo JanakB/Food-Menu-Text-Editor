@@ -9,6 +9,7 @@ namespace SchoolManagementSystem.Services.Interfaces
         Task CreateAsync(Student student);
         Task UpdateAsync(Student student);
         Task DeleteAsync(int id);
+
     }
 
 }

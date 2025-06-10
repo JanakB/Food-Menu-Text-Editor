@@ -15,6 +15,7 @@ namespace SchoolManagementSystem.Repositories
         Task<List<Student>> GetAllWithIncludesAsync();
 
 
+
     }
 
 

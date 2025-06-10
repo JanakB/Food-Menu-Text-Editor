@@ -27,5 +27,11 @@ namespace SchoolManagementSystem.Repositories
                 .Where(s => s.ClassroomId == classroomId)
                 .ToListAsync();
         }
+
+        public async Task<Student> GetByIdAsync(int id)
+        {
+            return await _context.Students.FindAsync(id); // Assumes you're using EF Core
+        }
+
     }
 }

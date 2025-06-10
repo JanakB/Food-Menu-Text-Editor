@@ -38,6 +38,10 @@ namespace SchoolManagementSystem.Areas.Admin.Controllers
             var students = await _studentService.GetAllAsync();
             return View(students);
         }
+        public IActionResult Test()
+        {
+            return Content("Routing to StudentController in Admin area works!");
+        }
 
         [HttpGet]
         public JsonResult GetSectionsByClassroom(int id)
@@ -123,6 +127,22 @@ namespace SchoolManagementSystem.Areas.Admin.Controllers
             await _studentService.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> Details(int id)
+        {
+            var student = await _studentService.GetByIdAsync(id);
+
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            return View(student);
+        }
+        
+           
+
+
 
     }
 }

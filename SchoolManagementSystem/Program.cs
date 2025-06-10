@@ -16,9 +16,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 // --------------------
 // Identity Setup
 // --------------------
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
-    .AddRoles<IdentityRole>()
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+{
+    options.SignIn.RequireConfirmedAccount = false;
+})
+.AddEntityFrameworkStores<ApplicationDbContext>()
+.AddDefaultTokenProviders();
 
 builder.Services.AddRazorPages(); // Needed for Identity UI (Login, Register)
 
@@ -65,13 +68,12 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Enable Identity Razor Pages (Login, Register, etc.)
-app.MapRazorPages();
+app.MapRazorPages(); // Identity UI (Login, Register, etc.)
 
 // --------------------
-// Seed Roles + Admin
+// Seed Roles + Admin User
 // --------------------
-async Task SeedRolesAndAdminUserAsync(WebApplication app)
+async Task SeedRolesAndAdminUserAsync()
 {
     using var scope = app.Services.CreateScope();
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
@@ -93,17 +95,30 @@ async Task SeedRolesAndAdminUserAsync(WebApplication app)
     var adminUser = await userManager.FindByEmailAsync(adminEmail);
     if (adminUser == null)
     {
-        var user = new IdentityUser { UserName = adminEmail, Email = adminEmail };
-        var result = await userManager.CreateAsync(user, adminPassword);
+        var newUser = new IdentityUser
+        {
+            UserName = adminEmail,
+            Email = adminEmail,
+            EmailConfirmed = true
+        };
+
+        var result = await userManager.CreateAsync(newUser, adminPassword);
         if (result.Succeeded)
         {
-            await userManager.AddToRoleAsync(user, "Admin");
+            await userManager.AddToRoleAsync(newUser, "Admin");
+        }
+    }
+    else
+    {
+        if (!await userManager.IsInRoleAsync(adminUser, "Admin"))
+        {
+            await userManager.AddToRoleAsync(adminUser, "Admin");
         }
     }
 }
 
-// 🔁 Call seeding after everything is set up
-await SeedRolesAndAdminUserAsync(app);
+// 🔁 Call the seeding method
+await SeedRolesAndAdminUserAsync();
 
 // ✅ Run the app
 app.Run();

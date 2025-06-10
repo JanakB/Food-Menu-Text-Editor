@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\services\\interfaces\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:services\\interfaces\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\migrations\\20250608103046_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\repositories\\isectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:repositories\\isectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|solutionrelative:repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E11D9A7-EDB4-49C6-8F77-2CB66C9CC94B}|SchoolManagementSystem.csproj|h:\\food menu, text editor\\schoolmanagementsystem\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +78,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\TestController.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:35:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Services\\Interfaces\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\Implementations\\StudentService.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Services\\Interfaces\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:46:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:46:31.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:44:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T05:39:53.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StudentController.cs",
+              "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAE0AAAAAzMzMzMwcwI0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:36:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250608103046_InitialCreate.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Migrations\\20250608103046_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250608103046_InitialCreate.cs",
@@ -66,12 +168,11 @@
               "RelativeToolTip": "Migrations\\20250608103046_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T10:30:48.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T10:30:48.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -79,12 +180,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-08T10:23:25.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T10:23:25.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Shared\\_Layout.cshtml",
@@ -92,12 +192,11 @@
               "RelativeToolTip": "Areas\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAADAMzMzMzMrwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T10:12:14.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T10:12:14.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -105,12 +204,11 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T09:35:56.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T09:35:56.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
@@ -123,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -131,38 +229,37 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T09:30:03.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T09:30:03.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Student\\Index.cshtml",
               "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Areas\\Admin\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAABANDMzMzMrwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-08T09:23:07.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "SectionRepository.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\SectionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\SectionRepository.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\SectionRepository.cs",
               "RelativeToolTip": "Repositories\\SectionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAADAZ2ZmZmYSwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T08:11:20.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "ISectionRepository.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\ISectionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ISectionRepository.cs",
@@ -170,25 +267,24 @@
               "RelativeToolTip": "Repositories\\ISectionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T08:10:34.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T08:10:34.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAABqvXwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T08:07:28.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ClassroomRepository.cs",
               "DocumentMoniker": "H:\\Food Menu, Text Editor\\SchoolManagementSystem\\Repositories\\ClassroomRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ClassroomRepository.cs",
@@ -196,8 +292,7 @@
               "RelativeToolTip": "Repositories\\ClassroomRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T08:07:01.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T08:07:01.766Z"
             }
           ]
         }
